@@ -1,0 +1,23 @@
+{
+  "name": "Cow_Say-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tach21/Cow_Say-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tach21/Cow_Say-/issues"
+  },
+  "homepage": "https://github.com/tach21/Cow_Say-#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
